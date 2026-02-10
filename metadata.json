@@ -1,0 +1,9 @@
+{
+  "name": "AptiMaster AI Platform",
+  "description": "Professional aptitude assessment and live tutoring platform with secure Note ID tracking and Google Meet integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
